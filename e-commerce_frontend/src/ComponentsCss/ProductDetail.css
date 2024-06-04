@@ -1,0 +1,37 @@
+.ProductDetailMain {
+    display: flex;
+}
+
+.ProductDetailSwiper {
+    margin-left: 7%;
+    margin-top: 7%;
+    height: 500px;
+    width: 600px;
+    border-radius: 15px;
+}
+
+.product-Gallery {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.ProductDetailRight {
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.ProductDetail-Title {
+    font-size: xx-large;
+}
+
+.ProductDetail-Description {
+    font-size: x-large;
+}
+
+.ProductDetail-Price {
+    /* font-size: larger; */
+}
+
+.ProductDetail-button {}

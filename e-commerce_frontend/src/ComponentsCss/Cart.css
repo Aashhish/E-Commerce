@@ -1,0 +1,61 @@
+.Cart {
+    margin-top: 8%;
+    margin-left: 9%;
+}
+
+
+.Cart-Container {
+    margin-top: 3%;
+    margin-left: 10%;
+    height: 30vh;
+    width: 80vw;
+    background-color: beige;
+    border-radius: 3px;
+}
+
+
+.Cart-main {
+    display: flex;
+}
+
+.Cart-Product {
+    height: 15%;
+    width: 15%;
+    border-radius: 5px;
+    margin: 16px;
+}
+
+.Cart-Title {
+    margin-top: 25px;
+    font-size: x-large;
+}
+
+.Cart-Price {
+    font-size: larger;
+    font-weight: bold;
+    margin: 5px;
+    margin-top: 50px;
+}
+
+.Cart-MRP {
+    text-decoration: line-through;
+    color: #b2b9bf;
+    font-size: medium;
+    margin: 5px;
+}
+
+.Cart-Discount {
+    color: #12b985;
+}
+
+.Cart-button {
+    cursor: pointer;
+    text-align: center;
+    margin-left: 115%;
+    height: 38px;
+    width: 105px;
+    border-radius: 10px;
+    border-style: none;
+    color: white;
+    background-color: #1a2024
+}
