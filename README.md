@@ -19,3 +19,18 @@
 # Back End
 1. npm run command to launch the BackEnd
 2. npm install to install node modules
+3. npm i express
+4. npm i bcrypt
+5. npm i cors
+6. npm i dotenv
+7. npm i express
+8. npm i jsonwebtoken
+9. npm i mongoose
+10. npm i multer
+11. npm i nodemon
+12. relaunch backend after installation 
+
+
+# Admin Login credentials
+Email = admin1@gmail.com
+Password = 123
